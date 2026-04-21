@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Booking App</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="add_apartment">Add Apartment</string>
+    <string name="title_hint">Title</string>
+    <string name="desc_hint">Description</string>
+    <string name="price_hint">Price per night</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="date_hint">Booking Date</string>
+    <string name="apartments_list">Apartments</string>
+    <string name="no_apartments">No apartments found</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="saved">Saved!</string>
+    <string name="deleted">Deleted!</string>
+    <string name="booking_date">Booking Date</string>
+    <string name="price_per_night">Price per night</string>
+    <string name="description">Description</string>
+    <string name="new_apartment">New Apartment</string>
+    <string name="edit_apartment">Edit Apartment</string>
+    <string name="book_now">Book Now</string>
+    <string name="booking_success">Successfully booked!</string>
+    <string name="news_title">Business News</string>
+    <string name="no_news">No news available</string>
+    <string name="booking_history">My Bookings</string>
+    <string name="my_bookings_title">Your Bookings</string>
+</resources>
